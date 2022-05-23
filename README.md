@@ -4,7 +4,9 @@ Sobre mim
 - 👀 Estou interessado em aprender linguagens e programação para caso precise em meu futuro👍
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 - 💞️ Meu insta priv é @Madutafeliz :)
--  
+
+
+
 
 <!---
 Magalidaquebrada/Magalidaquebrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
